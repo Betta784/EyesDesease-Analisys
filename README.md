@@ -1,7 +1,7 @@
 # EyesDesease-Analisys
 This code is used for images deseases classification 
 
-It is composed of three main parts:
+It is composed of main parts:
 
 Importing data
 Splitting data (0.8)
