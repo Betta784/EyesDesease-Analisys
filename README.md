@@ -21,3 +21,5 @@ The code was tested on Python 3.13.3 on Windows.
 
 Usage
 Run ldlPark.py. In the same folder you need the dataset folder named 'dataset'.
+See here to download the dataset:
+https://www.kaggle.com/code/mahnazarjmand/eye-diseases-classification
