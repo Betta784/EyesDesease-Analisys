@@ -8,11 +8,12 @@ Splitting data (0.8)
 Resampling training set 
 Creating hog features
 PCA application (on train set)
-Applying KMeans clustering, VISUALIZATION, accurancy calculating
+Applying KMeans clustering, VISUALIZATION
 Applying KNN, VISUALIZATION, accurancy calculating
 Applying RandomForestClassifier, VISUALIZATION, accurancy calculating
-Applying SVN, VISUALIZATION, accurancy calculating
+Applying SVN, VISUALIZATION, accurancy calculating, SVN
 Applying DecisionTreeClassifier, VISUALIZATION, accurancy calculating
+ROC curve visualization for KNN, RandomForestClassifier, DecisionTreeClassifier
 For each process: COMPUTATIONAL TIME CALCULATIING
 
 You will need to have matplotlib, scikit-learn, pandas, cv2, glob, skimage, sklearn, mpl_toolkits, seaborn, imbalanced-learn  and numpy installed.
